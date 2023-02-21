@@ -1,10 +1,10 @@
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597682885230},"valid":true,"tokenId":"wesuoyr1kl","_id":"1QnCxIbO3ieQoR2Y"}
 {"accessRights":[1,2,3,4],"userName":"user1","tokenId":"piyu9r9tmk7gr4rjzviwq","valid":true,"expirationTime":{"$$date":1597066418183},"_id":"5B73AJpFYgbQxT9D"}
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597682907609},"valid":true,"tokenId":"f9g1wnbtvcu","_id":"6mrGxgbBTzKs5RQI"}
+{"accessRights":[1,2,3],"expirationTime":{"$$date":1677001031763},"userName":"iTestUser","valid":true,"tokenId":"swawuko40mb","_id":"RNWdoUpKGHyfXpeh"}
 {"accessRights":[1,2,3],"expirationTime":{"$$date":1677000841896},"userName":"iTestUser","valid":true,"tokenId":"6091mn848g","_id":"RlSH52AoqA5FwiFT"}
 {"accessRights":[1,2,3],"expirationTime":{"$$date":1677000819911},"userName":"iTestUser","valid":true,"tokenId":"xb4kn35ysr","_id":"UXwQ4I52STFNw7CE"}
 {"accessRights":[1,2,3],"expirationTime":{"$$date":1677000789489},"userName":"iTestUser","valid":true,"tokenId":"dsbm8g9d5xr","_id":"sQ2iFQ3ljqyDDQBR"}
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597074714001},"valid":true,"tokenId":"oi3ob6s5hvg","_id":"wuQJTkvrbPqohg0M"}
-{"accessRights":[1,2,3],"expirationTime":{"$$date":1676997430865},"tokenId":"someTokenIdtulkti","userName":"someUserName","valid":true,"_id":"k5ySM2Gcl3ilyqA3"}
-{"$$deleted":true,"_id":"k5ySM2Gcl3ilyqA3"}
-{"accessRights":[1,2,3],"expirationTime":{"$$date":1677001031763},"userName":"iTestUser","valid":true,"tokenId":"swawuko40mb","_id":"RNWdoUpKGHyfXpeh"}
+{"accessRights":[1,2,3],"expirationTime":{"$$date":1676997859812},"tokenId":"someTokenIdhjhmi","userName":"someUserName","valid":true,"_id":"xivxKkCkuBAN65q7"}
+{"$$deleted":true,"_id":"xivxKkCkuBAN65q7"}
