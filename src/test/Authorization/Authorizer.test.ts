@@ -47,7 +47,7 @@ describe("Authorizer test suite", () => {
 			accessRights: [1, 2, 3],
 			valid: true,
 			tokenId: "",
-			expirationTime: new Date(60 * 60 * 100),
+			expirationTime: new Date(60 * 60 * 10 * 100),
 		};
 		const sessionToken = await authorizer.generateToken(someAccount);
 		expect(expectedSessionToken).toEqual(sessionToken);

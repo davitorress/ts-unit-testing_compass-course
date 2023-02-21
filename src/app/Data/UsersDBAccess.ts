@@ -1,4 +1,4 @@
-import * as Nedb from "nedb";
+import Nedb from "nedb";
 
 import { User } from "../Models/UserModels";
 
@@ -11,7 +11,7 @@ export class UsersDBAccess {
 	}
 
 	public async putUser(user: User) {
-		return new Promise((resolve, reject) => {
+		return new Promise<void>((resolve, reject) => {
 			this.nedb.insert(user, (err: Error | null) => {
 				if (err) {
 					reject(err);

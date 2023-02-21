@@ -1,4 +1,4 @@
-import * as Nedb from "nedb";
+import Nedb from "nedb";
 
 import { UserCredentials } from "../Models/ServerModels";
 
